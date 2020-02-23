@@ -11,5 +11,5 @@ Assets
 1. The assets are all made on blender
 2. All scripts can be found in Assets/Scripts
 
-Thank you for taking time to judge my project
+Thank you for taking time to judge my project, 
 Zibran Vastani
